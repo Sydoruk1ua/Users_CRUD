@@ -1,9 +1,4 @@
-*.class
 
-# Package Files #
-*.jar
-*.war
-*.ear
 .idea/compiler.xml
 .idea/copyright/
 .idea/dataSources.ids
